@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**DamieFC/DamieFC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Heyyyy!
+Hi! I'm DFC. I am a pentester/web developer. This README is in beta :wink:
+## Favorite Emojis
+:octocat:
+<br>
+:potato:
+<br>
+:smiley:
+## IF YOU COME HERE PLEASE DO THE FOLLOWING
+1. Stay home
+2. Wear a mask
+3. Listen to local and federal health officials
+4. When you can get the COVID vaccine, *please get it*. We can end this pandemic/living heck.
+5. This isn't related to COVID, but if you were one of the rioters at the capitol, turn yourself in. It's the right thing to do.
