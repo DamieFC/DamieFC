@@ -6,6 +6,8 @@ Hi! I'm DFC. I am a pentester/web developer. This README is in beta :wink:
 :potato:
 <br>
 :smiley:
+<br>
+:wink:
 ## IF YOU COME HERE PLEASE DO THE FOLLOWING
 1. Stay home
 2. Wear a mask
