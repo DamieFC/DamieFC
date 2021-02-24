@@ -1,5 +1,7 @@
 # Heyyyy!
-Hi! I'm DFC. I am a pentester/web developer. This README is in beta :wink:
+Hi! I'm DFC. I am a pentester/web developer. This README is in beta :wink:. Also,
+## HACKING IS GOOD LEARN TO HACK
+***
 ## Favorite Emojis
 :octocat:
 <br>
