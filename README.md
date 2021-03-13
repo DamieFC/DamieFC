@@ -1,5 +1,5 @@
 # Heyyyy!
-Hi! I'm DFC. I am a pentester/web developer. This README is in beta :wink:. Also,
+Hi! I'm DFC. I am a pentester/web developer/punk music fanatic, in high school. This README is in beta :wink:. Also,
 ## HACKING IS GOOD LEARN TO HACK
 ***
 ## Favorite Emojis
