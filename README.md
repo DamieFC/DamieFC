@@ -29,4 +29,4 @@ I did a change.org petition to get every unsupported version of Windows open sou
 2. Run For Mayor
 3. Pledge Of Allegiance
 ## The C Keyword that is the name of an 80s punk band on Discord
-[Void](https://www.dischord.com/band/void) (punk band), [`void`](https://docs.microsoft.com/en-us/cpp/cpp/void-cpp?view=msvc-160), I know that's for C++, but whatever.
+[Void](https://www.dischord.com/band/void) (punk band), [`void`](https://stackoverflow.com/questions/8024790/understanding-the-exact-meaning-of-the-void-keyword-in-c-c)
