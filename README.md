@@ -26,4 +26,4 @@ I'm working on Platypus OS, which can be found [here](https://github.com/Platypu
 I did a change.org petition to get every unsupported version of Windows open sourced. If you want, you can sign it [here](http://chng.it/69dpmYFQ5s).
 ## Favorite Jello Biafra spoken word tracks
 1. Eric Meets The Moose Diarhea Salesman
-2. R
+2. Run For Mayor
