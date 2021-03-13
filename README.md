@@ -30,3 +30,9 @@ I did a change.org petition to get every unsupported version of Windows open sou
 3. Pledge Of Allegiance
 ## The C Keyword that is the name of an 80s punk band on Discord
 [Void](https://www.dischord.com/band/void) (punk band), [`void`](https://stackoverflow.com/questions/8024790/understanding-the-exact-meaning-of-the-void-keyword-in-c-c)
+## My names for different OSs
+| Real OS Name | My OS name (Often obnoxious) |
+| ------------ | ---------------------------- |
+| Macintosh    | Crackintosh                  |
+| Hurd         | Burd                         |
+| Windows      | Sindows                      |
