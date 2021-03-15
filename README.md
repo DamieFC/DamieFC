@@ -25,11 +25,11 @@ I'm working on Platypus OS, which can be found [here](https://github.com/Platypu
 ## Other things
 I did a change.org petition to get every unsupported version of Windows open sourced. If you want, you can sign it [here](http://chng.it/69dpmYFQ5s).
 ## Favorite Jello Biafra spoken word tracks
-1. Eric Meets The Moose Diarhea Salesman
+1. Eric Meets The Moose Diarrhea Salesman
 2. Run For Mayor
 3. Pledge Of Allegiance
 ## The C Keyword that is the name of an 80s punk band on Discord
-[Void](https://www.dischord.com/band/void) (punk band), [`void`](https://stackoverflow.com/questions/8024790/understanding-the-exact-meaning-of-the-void-keyword-in-c-c)
+[Void](https://www.dischord.com/band/void) (punk band), [`void`](https://stackoverflow.com/questions/8024790/understanding-the-exact-meaning-of-the-void-keyword-in-c-c) (Keyword)
 ## My names for different OSs
 | Real OS Name | My OS name (Often obnoxious) |
 | ------------ | ---------------------------- |
