@@ -36,3 +36,8 @@ I did a change.org petition to get every unsupported version of Windows open sou
 | Macintosh    | Crackintosh                  |
 | Hurd         | Burd                         |
 | Windows      | Sindows                      |
+## I found Github statistics!
+### I've been busy!
+![My GITHUB STATS I ROCK](https://github-readme-stats.vercel.app/api?username=DamieFC&show_icons=true&theme=radical)
+### I speak lots of languages!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamieFC&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
