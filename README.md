@@ -21,7 +21,7 @@ Hi! I'm DFC. I am a pentester/web developer/punk music fanatic, in 7th grade (I'
 <br>
 :electron:
 ## What I'm working on
-I'm working on Platypus OS, which can be found [here](https://github.com/Platypus-Tech/platypus-os-desktop-pre-alpha). That's consuming most of my time. In my _other_ time, I'm working on a private repository, which is _also_ an OS, but it's based on OpenBSD. I'm also working on my nameless OS, which is the OS for something else I'm working on, which will be made public soon. Also, I'm attempting to not get in trouble for port scanning public WiFi :unamused:
+I'm working on Platypus OS, which can be found [here](https://github.com/Platypus-Tech/platypus-os-desktop-pre-alpha). That's consuming most of my time. In my _other_ time, I'm working on a private repository, which is _also_ an OS, but it's based on OpenBSD. I'm also working on my nameless OS, which is the OS for for a custom SBC. I actually have a lot of OS's I'm working on, including one that's actually following the rules, [explodeOS](https://github.com/DamieFC/explodeOS), using guides and stuff from OSDev. Also, I'm attempting to not get in trouble for port scanning public WiFi :unamused:
 ## Other things
 I did a change.org petition to get every unsupported version of Windows open sourced. If you want, you can sign it [here](http://chng.it/69dpmYFQ5s).
 ## Favorite Jello Biafra spoken word tracks
