@@ -47,5 +47,5 @@ I did a change.org petition to get every unsupported version of Windows open sou
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamieFC&langs_count=10)](https://github.com/DamieFC/)
 ### Who has seen me since I put this up (Sat, Apr 3, 2021 at 7:35 PM) :)
 ![Visitor Count](https://profile-counter.glitch.me/DamieFC/count.svg)
-### I GOT A GOLDEN TICKET!
+### I GOT A GOLDEN T~ICKET~ROPHY!
 [![trophy](https://github-profile-trophy.vercel.app/?username=DamieFC)](https://github.com/DamieFC)
