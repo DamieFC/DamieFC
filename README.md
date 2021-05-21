@@ -32,6 +32,16 @@ I did a change.org petition to get every unsupported version of Windows open sou
 1. Eric Meets The Moose Diarrhea Salesman
 2. Run For Mayor
 3. Pledge Of Allegiance
+## Epic punk rock songs in no particular order that you should listen to to understand where I'm coming from with a lot of my stuff
+1. Anarchy Burger (Hold the Government) - The Vandals
+2. White Riot - The Clash
+3. You Can't Say Crap on the Radio - Stiff Little Fingers
+4. Straight Edge - Minor Threat
+5. I Drink Milk - The Teen Idles
+6. No More Of That - Stiff Little Fingers
+7. Law and Order - Stiff Little Fingers
+8. Small Man, Big Mouth - Minor Threat
+9. There's a gazillion more, I'll add more
 ## The C Keyword that is the name of an 80s punk band on Discord
 [Void](https://www.dischord.com/band/void) (punk band), [`void`](https://stackoverflow.com/questions/8024790/understanding-the-exact-meaning-of-the-void-keyword-in-c-c) (Keyword)
 ## My names for different OSs
