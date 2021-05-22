@@ -1,6 +1,5 @@
 # Heyyyy!
-Hi! I'm DFC. I am a pentester/web developer/punk music fanatic, in 6th grade. This README is in beta :wink:. Also,
-## HACKING IS GOOD LEARN TO HACK
+Hi! I'm DFC. I am a pentester/web developer/punk music fanatic, in 6th grade.
 ***
 ## Favorite Emojis
 :octocat:
