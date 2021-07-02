@@ -1,5 +1,5 @@
 # Heyyyy!
-Hi! I'm DFC. I am a 13 year old pentester/web developer/punk music fanatic.
+Hi! I'm Damien, aka GNUOverYou, GNUOverYooouu, DamieFC, and Damiepunk666 (the last one only on [Scratch](https://scratch.mit.edu/users/damiepunk666/)). I am a 13 year old pentester/web developer/punk music fanatic.
 ***
 ## Favorite Emojis
 :octocat:
