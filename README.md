@@ -59,4 +59,4 @@ I did a change.org petition to get every unsupported version of Windows open sou
 ### I GOT A GOLDEN T~ICKET~ROPHY!
 [![trophy](https://github-profile-trophy.vercel.app/?username=DamieFC)](https://github.com/DamieFC)
 ## Fun facts:
-1. I 
+1. I used this README for a school "Tell us about yourself" project. I got an A+ so use this README to talk about your favorite person :D
