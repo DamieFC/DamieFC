@@ -1,6 +1,6 @@
 # Heyyyy!
 Hi! I'm Damien, aka GNUOverYou, GNUOverYooouu, DamieFC, and Damiepunk666 (the last one only on [Scratch](https://scratch.mit.edu/users/damiepunk666/)). I am a 13 year old pentester/web developer/punk music fanatic.
-***
+<!--***
 ## Favorite Emojis
 :octocat:
 <br>
@@ -18,7 +18,7 @@ Hi! I'm Damien, aka GNUOverYou, GNUOverYooouu, DamieFC, and Damiepunk666 (the la
 <br>
 :radioactive:
 <br>
-:electron:
+:electron: -->
 ## What I'm working on
 I'm working on Platypus OS, which can be found [here](https://github.com/Platypus-Tech/new-platypus-os-drafts). That's consuming most of my time. I actually have a lot of OS's I'm working on, including one that's actually following the rules, [explodeOS](https://github.com/DamieFC/explodeOS), using guides and stuff from OSDev. I actually do work on other things other than OS's, I have my assembly language started from a joke on Discord, [org-asm](https://github.com/DamieFC/org-asm) (Official quote: "nasm, fasm, masm, and orgasm". My humor is slightly twisted).
 ## What I'm learning
