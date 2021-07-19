@@ -60,3 +60,5 @@ I did a change.org petition to get every unsupported version of Windows open sou
 [![trophy](https://github-profile-trophy.vercel.app/?username=DamieFC)](https://github.com/DamieFC)
 ## Fun facts:
 1. I used this README for a school "Tell us about yourself" project. I got an A+ so use this README to talk about your favorite person :D
+2. This is probably the longest README on Github, except maybe this python thing I saw once
+3. I once wore a TSOL shirt to school that had the word fuck on it and nobody cared.
