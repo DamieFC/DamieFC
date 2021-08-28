@@ -20,11 +20,11 @@ Hi! I'm Damien, aka GNUOverYou, GNUOverYooouu, DamieFC, and Damiepunk666 (the la
 <br>
 :electron: -->
 ## What I'm working on
-I'm working on Platypus OS, which can be found [here](https://github.com/Platypus-Tech/new-platypus-os-drafts). That's consuming most of my time. I actually have a lot of OS's I'm working on, including one that's actually following the rules, [explodeOS](https://github.com/DamieFC/explodeOS), using guides and stuff from OSDev. I actually do work on other things other than OS's, I have my assembly language started from a joke on Discord, [org-asm](https://github.com/DamieFC/org-asm) (Official quote: "nasm, fasm, masm, and orgasm". My humor is slightly twisted).
+I'm working on Platypus OS, which can be found [here](https://github.com/Platypus-Tech/platypus-os). That's consuming most of my time. I actually have a lot of OS's I'm working on, including one that's actually following the rules, [explodeOS](https://github.com/DamieFC/explodeOS), using guides and stuff from OSDev. I actually do work on other things other than OS's, I have my assembly language started from a joke on Discord, [org-asm](https://github.com/DamieFC/org-asm) (Official quote: "nasm, fasm, masm, and orgasm". My humor is slightly twisted), and [dfcpu](https://github.com/DamieFC/dfcpu), whick is gonna be a cpu I build that's going to use org-asm.
 ## What I'm learning
 I'm learning about Linux kernel organization and functions, and I actually found where the `printk(THING, "string");` function is (with / being the base repository): `/include/linux/printk.h`. I'm hoping to become a Linux kernel contributer soon. I'm also learning how not to get in trouble. School's starting soon so I'll be  more scarce.
 ## Reffering to me
-I consider myself a boy, so you can refer to me as "he", "him", or just "GNUOVERYOU" or @DamieFC. Doesn't matter. Of course, non-gender specific is fine. I wish people on discord would stop joking about this section.
+I consider myself a boy as of right now (hee hee hee), so you can refer to me as "he", "him", or just "GNUOVERYOU" or @DamieFC. Doesn't matter. Of course, non-gender specific is fine. I wish people on discord would stop joking about this section.
 ## Other things
 I did a change.org petition to get every unsupported version of Windows open sourced. If you want, you can sign it [here](http://chng.it/69dpmYFQ5s).
 ## Favorite Jello Biafra spoken word tracks
@@ -62,3 +62,5 @@ I did a change.org petition to get every unsupported version of Windows open sou
 1. I used this README for a school "Tell us about yourself" project. I got an A+ so use this README to talk about your favorite person :D
 2. This is probably the longest README on Github, except maybe this python thing I saw once
 3. I once wore a TSOL shirt to school that had the word fuck on it and nobody cared.
+4. I'm bisexual so don't be homophobic 🏳️‍🌈
+5. Isn't it strange that the LGBTQIA+ rainbow has the rainbow colors straight?
