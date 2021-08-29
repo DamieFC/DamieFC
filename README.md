@@ -40,7 +40,9 @@ I did a change.org petition to get every unsupported version of Windows open sou
 6. No More Of That - Stiff Little Fingers
 7. Law and Order - Stiff Little Fingers
 8. Small Man, Big Mouth - Minor Threat
-9. There's a gazillion more, I'll add more
+9. Institutionalized - Suicidal Tendencies
+10. You Can't Bring Me Down - Suicidal Tendencies
+11. There's a gazillion more, I'll add more
 ## The C Keyword that is the name of an 80s punk band on Discord
 [Void](https://www.dischord.com/band/void) (punk band), [`void`](https://stackoverflow.com/questions/8024790/understanding-the-exact-meaning-of-the-void-keyword-in-c-c) (Keyword)
 ## My names for different OSs
@@ -64,3 +66,4 @@ I did a change.org petition to get every unsupported version of Windows open sou
 3. I once wore a TSOL shirt to school that had the word fuck on it and nobody cared.
 4. I'm bisexual so don't be homophobic 🏳️‍🌈
 5. Isn't it strange that the LGBTQIA+ rainbow has the rainbow colors straight?
+6. My favorite numbers are 666 and 13
