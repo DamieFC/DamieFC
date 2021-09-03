@@ -1,5 +1,5 @@
 # Hi!
-Hi! I'm Damien, aka GNUOverYou, GNUOverYooouu, DamieFC, and Damiepunk666 (the last one only on [Scratch](https://scratch.mit.edu/users/damiepunk666/)). I am a 13 year old pentester/web developer/punk music fanatic.
+Hi! I'm Damien, aka GNUOverYou, GNUOverYooouu, DamieFC, and Damiepunk666 (the last one only on [Scratch](https://scratch.mit.edu/users/damiepunk666/)). I am a 13 year old pentester/web developer/punk music fanatic. I'm only good at low level programming (basically just C) and really high level (like ruby and python but nothing higher) and anything in between I suck at.
 <!--***
 ## Favorite Emojis
 :octocat:
