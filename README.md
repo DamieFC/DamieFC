@@ -70,4 +70,4 @@ I did a change.org petition to get every unsupported version of Windows open sou
 5. Isn't it strange that the LGBTQIA+ rainbow has the rainbow colors straight?
 6. My favorite numbers are 666 and 13
 7. My favorite commit messages are "hi" and "ree"
-8. I think there's 2 kids in my class who lost their virginity on 9-22-21, in school. I saw it
+8. On 9-22-21 I saw two kids f-cking in the back of the class. I was sitting 2 feet away and everyone was watching and talking about it. Yes, I was listening to Protex Blue by the Clash, and yes, I got hard, and yes, they got away with it.
