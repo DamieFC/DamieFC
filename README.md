@@ -24,7 +24,7 @@ I'm working on Platypus OS, which can be found [here](https://github.com/Platypu
 ## What I'm learning
 I'm learning about Linux kernel organization and functions, and I actually found where the `printk(THING, "string");` function is (with / being the base repository): `/include/linux/printk.h`. I'm hoping to become a Linux kernel contributer soon. I'm also learning how not to get in trouble. School started but I'm still active.
 ## Reffering to me
-I consider myself a boy as of right now (hee hee hee), so you can refer to me as "he", "him", or just "GNUOVERYOU" or @DamieFC. Doesn't matter. Of course, non-gender specific is fine. I wish people on discord would stop joking about this section.
+I consider myself a boy as of right now (hee hee hee), so you can refer to me as "he", "him", or just "GNUOverYou" or @DamieFC. Doesn't matter. Of course, non-gender specific is fine. I wish people on discord would stop joking about this section.
 ## Other things
 I did a change.org petition to get every unsupported version of Windows open sourced. If you want, you can sign it [here](http://chng.it/69dpmYFQ5s).
 ## Favorite Jello Biafra spoken word tracks
