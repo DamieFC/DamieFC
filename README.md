@@ -18,7 +18,7 @@ Hi! I'm Damien, aka GNUOverYou, GNUOverYooouu, DamieFC, and Damiepunk666 (the la
 <br>
 :radioactive:
 <br>
-:electron: -->
+:electron:
 ## What I'm working on
 I'm working on Platypus OS, which can be found [here](https://github.com/Platypus-Tech/platypus-os). That's consuming most of my time. I actually have a lot of OS's I'm working on, including one that's actually following the rules, [explodeOS](https://github.com/DamieFC/explodeOS), using guides and stuff from OSDev. I actually do work on other things other than OS's, I have my assembly language started from a joke on Discord, [org-asm](https://github.com/DamieFC/org-asm) (Official quote: "nasm, fasm, masm, and orgasm". My humor is slightly twisted), and [dfcpu](https://github.com/DamieFC/dfcpu), whick is gonna be a cpu I build that's going to use org-asm.
 ## What I'm learning
@@ -71,3 +71,5 @@ I did a change.org petition to get every unsupported version of Windows open sou
 6. My favorite numbers are 666 and 13
 7. My favorite commit messages are "hi" and "ree"
 8. I skipped the second grade, I went from first grade to third, but I had to repeat the 3rd grade, so something went terribly wrong.
+-->
+# Actually I'm grounded until I'm 35 with no test machine or anything so don't expect much going on
