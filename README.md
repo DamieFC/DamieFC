@@ -71,5 +71,4 @@ I did a change.org petition to get every unsupported version of Windows open sou
 6. My favorite numbers are 666 and 13
 7. My favorite commit messages are "hi" and "ree"
 8. I skipped the second grade, I went from first grade to third, but I had to repeat the 3rd grade, so something went terribly wrong.
--->
-# Actually I'm grounded until I'm 35 with no test machine or anything so don't expect much going on
+# Actually I'm grounded until I'm 35 with no test machine or anything so don't expect much going on-->
