@@ -1,4 +1,4 @@
-# Hi! I'm not here anymore bc I lost interest due to school. Check out my other stuff though: [bandcamp](https://wehavenorecords.bandcamp.com/), [We Have No Records main site](https://sites.google.com/view/wehavenorecords/). I got other shit going on.
+# Hi! I'm not here much anymore bc I lost interest due to school. Check out my other stuff though: [bandcamp](https://wehavenorecords.bandcamp.com/), [We Have No Records main site](https://sites.google.com/view/wehavenorecords/). I got other shit going on, but I'll be more active again.
 <!-- Hi! I'm Damien, aka GNUOverYou, GNUOverYooouu, DamieFC, and Damiepunk666 (the last one only on [Scratch](https://scratch.mit.edu/users/damiepunk666/)). I am a 13 year old pentester/web developer/punk music fanatic. I'm only good at low level programming (basically just C) and really high level (like ruby and python but nothing higher) and anything in between I suck at.
 ***
 ## Favorite Emojis
